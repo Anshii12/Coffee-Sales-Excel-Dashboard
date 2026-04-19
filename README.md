@@ -17,8 +17,7 @@ This project is a dynamic, single-page dashboard created in Microsoft Excel to a
 * **Dashboard Design:** Created a "Dark Mode" aesthetic with a focus on readability and clean layout.
 
 ## Project Preview
-![Dashboard Screenshot](<img width="1276" height="562" alt="image" src="https://github.com/user-attachments/assets/e921df3f-62d6-4d98-b648-13003ec4cee4" />
-) 
+<img width="1276" height="562" alt="image" src="https://github.com/user-attachments/assets/8c8e2a23-7de2-448c-985b-962c1f1c5484" />
 
 ## How to Use
 1. Download the `.xlsx` file from this repository.
